@@ -1,11 +1,11 @@
 # anova-design-factorial
-Repository untuk tugas Statistik Lanjutan - S2 Teknik Industri UI
+This repository is used for storing advance statistics assignment for Master of Industrial Engineering University of Indonesia
 
-Repo ini dibuat untuk menyelesaikan permasalahan :
+This repo is created to solved:
 1. ANOVA Multifactor
 2. 2k Factorial Design
 
-Adapun untuk menggunakan repository ini perlu untuk menginstall:
+Therefore if you want to use this repository you need to install several requirement below:
 1. sudo pip pandas
 2. sudo pip matplotlib
 3. sudo pip seaborn
@@ -13,4 +13,3 @@ Adapun untuk menggunakan repository ini perlu untuk menginstall:
 5. sudo pip numpy
 6. sudo pip scipy
 7. sudo pip sklearn
-
